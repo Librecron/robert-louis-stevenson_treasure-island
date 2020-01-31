@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/milo-winter</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island</dc:identifier>
 		<dc:date>2015-04-15T11:09:00Z</dc:date>
 		<meta property="dcterms:modified">2015-04-15T11:09:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -51,7 +51,7 @@
 		<meta property="se:word-count">69764</meta>
 		<meta property="se:reading-ease.flesch">77.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Treasure_Island</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_treasure-island_milo-winter</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_treasure-island</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
 		<meta property="file-as" refines="#author">Stevenson, Robert Louis</meta>
 		<meta property="se:name.person.full-name" refines="#author">Robert Louis Balfour Stevenson</meta>
@@ -161,42 +161,36 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="part-1.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
 		<itemref idref="chapter-4.xhtml"/>
 		<itemref idref="chapter-5.xhtml"/>
 		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="part-2.xhtml"/>
 		<itemref idref="chapter-7.xhtml"/>
 		<itemref idref="chapter-8.xhtml"/>
 		<itemref idref="chapter-9.xhtml"/>
 		<itemref idref="chapter-10.xhtml"/>
 		<itemref idref="chapter-11.xhtml"/>
 		<itemref idref="chapter-12.xhtml"/>
-		<itemref idref="part-3.xhtml"/>
 		<itemref idref="chapter-13.xhtml"/>
 		<itemref idref="chapter-14.xhtml"/>
 		<itemref idref="chapter-15.xhtml"/>
-		<itemref idref="part-4.xhtml"/>
 		<itemref idref="chapter-16.xhtml"/>
 		<itemref idref="chapter-17.xhtml"/>
 		<itemref idref="chapter-18.xhtml"/>
 		<itemref idref="chapter-19.xhtml"/>
 		<itemref idref="chapter-20.xhtml"/>
 		<itemref idref="chapter-21.xhtml"/>
-		<itemref idref="part-5.xhtml"/>
 		<itemref idref="chapter-22.xhtml"/>
 		<itemref idref="chapter-23.xhtml"/>
 		<itemref idref="chapter-24.xhtml"/>
 		<itemref idref="chapter-25.xhtml"/>
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
-		<itemref idref="part-6.xhtml"/>
 		<itemref idref="chapter-28.xhtml"/>
 		<itemref idref="chapter-29.xhtml"/>
 		<itemref idref="chapter-30.xhtml"/>
@@ -204,6 +198,12 @@
 		<itemref idref="chapter-32.xhtml"/>
 		<itemref idref="chapter-33.xhtml"/>
 		<itemref idref="chapter-34.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
+		<itemref idref="part-4.xhtml"/>
+		<itemref idref="part-5.xhtml"/>
+		<itemref idref="part-6.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
